@@ -28,9 +28,9 @@ function App() {
                 ✨ Открыть окно
             </button>
             <Modal open={open} setOpen={setOpen}>
-                {/*<img src="https://media2.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif"/>*/}
-                {/*<h3>Это модальное окно</h3>*/}
-                {/*<button>214</button>*/}
+                <img src="https://media2.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif"/>
+                <h3>Это модальное окно</h3>
+                <button>214</button>
             </Modal>
         </div>
     );
